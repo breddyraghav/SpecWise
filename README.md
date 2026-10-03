@@ -2,6 +2,10 @@
 
 SpecWise is a product recommendation system that helps users find a suitable laptop, smartphone, or bike based on their requirements and budget.
 
+## Live Website
+
+https://specwise.streamlit.app/
+
 ## What it does
 
 The user enters their requirements and SpecWise compares them with the products available in its database. It then gives a recommendation along with a match score and reasons for the recommendation.
